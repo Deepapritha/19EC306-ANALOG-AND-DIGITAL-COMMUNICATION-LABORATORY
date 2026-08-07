@@ -25,7 +25,7 @@ Now switch corresponding fault switch button in ON condition & observe the diffe
 
 # BLOCK DIAGRAM:
 <img width="845" height="1079" alt="image" src="https://github.com/user-attachments/assets/48412fdd-c336-482a-a5ab-1ba686556188" />
-
+# Tabulation:
 # MODEL GRAPH:
 <img width="599" height="798" alt="image" src="https://github.com/user-attachments/assets/3841e33a-12a4-4fc3-b67b-41285af5878d" />
 
