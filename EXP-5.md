@@ -6,6 +6,7 @@ MATLAB
 
  
 # PROGRAM:
+
 clc;
 t=0:0.0001:0.15;
 m = square(2*pi*10*t);
