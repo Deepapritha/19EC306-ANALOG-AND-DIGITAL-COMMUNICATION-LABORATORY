@@ -18,7 +18,7 @@ code = encode(msg, n, k, 'cyclic');
 msg
 code
 # ENCODING OUTPUT:
-https://github.com/michaelpriya21/19EC306-ANALOG-AND-DIGITAL-COMMUNICATION-LABORATORY.git
+<img width="593" height="470" alt="Screenshot 2026-08-28 083136" src="https://github.com/user-attachments/assets/cf7794a6-eaa5-464c-97c5-70e3a477ac06" />
 
 # DECODING PROGRAM:
 clc;
