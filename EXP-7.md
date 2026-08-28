@@ -18,6 +18,7 @@ code = encode(msg, n, k, 'cyclic');
 msg
 code
 # ENCODING OUTPUT:
+https://github.com/michaelpriya21/19EC306-ANALOG-AND-DIGITAL-COMMUNICATION-LABORATORY.git
 
 # DECODING PROGRAM:
 clc;
@@ -51,6 +52,7 @@ corrvect
 correctedcode
 
 # DECODING OUTPUT:
+<img width="781" height="402" alt="WhatsApp Image 2026-08-27 at 2 57 37 PM" src="https://github.com/user-attachments/assets/926453de-814c-43cd-aa4f-ce0120584c28" />
 
 # RESULT:
 Thus encoding and decoding of block codes are performed using MATLAB.
