@@ -7,28 +7,34 @@ MATLAB
 # PROGRAM:
 # SHANNON FANO :
 clc;
+
 clear all;
+
 close all;
 
 m = input('Enter the no. of message ensembles : ');
+
 z = [];
+
 h = 0;
+
 l = 0;
 
 display('Enter the probabilities in descending order');
 
 for i = 1:m
-    fprintf('Ensemble %d\n', i);
+    fprintf('Ensemble %d\n', i);   
     p(i) = input('');
 end
 
 a(1) = 0;
 
 for j = 2:m
-    a(j) = a(j-1) + p(j-1);
+    a(j) = a(j-1) + p(j-1); 
 end
 
 fprintf('\n Alpha Matrix');
+
 display(a);
 
 for i = 1:m
@@ -36,6 +42,7 @@ for i = 1:m
 end
 
 fprintf('\n Code length matrix');
+
 display(n);
 
 for i = 1:m
@@ -67,12 +74,15 @@ end
 display(l);
 
 fprintf('Entropy : ');
+
 display(h);
 
 fprintf('Efficiency : ');
+
 display(100 * h / l);
 
 fprintf('Redundancy : ');
+
 display(100 - (100 * h / l));
 
 # Input:
@@ -87,6 +97,9 @@ Ensemble 5
 0.4
 
 # OUTPUT:
+
+<img width="475" height="662" alt="image" src="https://github.com/user-attachments/assets/2df19c3e-3e83-4bcb-b98a-7a280e00db82" />
+<img width="441" height="573" alt="image" src="https://github.com/user-attachments/assets/b4d43933-1cf4-481f-8b13-d6c094cfa4b7" />
 
 
 # RESULT:
