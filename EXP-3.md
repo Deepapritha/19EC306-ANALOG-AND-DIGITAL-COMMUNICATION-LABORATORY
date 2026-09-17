@@ -27,11 +27,13 @@ Now switch corresponding fault switch button in ON condition & observe the diffe
 <img width="845" height="1079" alt="image" src="https://github.com/user-attachments/assets/48412fdd-c336-482a-a5ab-1ba686556188" />
 
 # Tabulation:
+<img width="1600" height="1279" alt="image" src="https://github.com/user-attachments/assets/42c88a50-9cd3-4a9f-a43e-e362b2f29247" />
 
 # MODEL GRAPH:
 <img width="599" height="798" alt="image" src="https://github.com/user-attachments/assets/3841e33a-12a4-4fc3-b67b-41285af5878d" />
 
 # OUTPUT GRAPH:
+<img width="979" height="1419" alt="image" src="https://github.com/user-attachments/assets/b970d390-caba-4730-88df-c1071d848cc2" />
 
 # Result:
 Thus the pulse amplitude modulated and demodulated signals is generated and output is verified.
