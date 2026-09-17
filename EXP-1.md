@@ -30,9 +30,11 @@ c)	Modulation index greater than 1
 <img width="958" height="1345" alt="image" src="https://github.com/user-attachments/assets/37a4344a-d392-418f-84ea-671ac6cf7138" />
 
 # GRAPH:
+<img width="964" height="1285" alt="WhatsApp Image 2026-09-17 at 9 15 18 AM" src="https://github.com/user-attachments/assets/49d88c3b-3681-47fa-af77-e15e9d711cf8" />
 
 
 # TABULATION:
+<img width="1518" height="936" alt="WhatsApp Image 2026-09-17 at 9 15 18 AM (1)" src="https://github.com/user-attachments/assets/792b9eac-ab30-4306-adb4-916f8739249e" />
 
 
 # RESULT:
